@@ -25,3 +25,5 @@ function score() {
 
 console.log("You have cards " + card1 + " and " + card2 +
         " for a score of " + score(card1, card2));
+        
+        asdf
